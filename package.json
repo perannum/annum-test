@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/perannum/test.git"
+    "url": "https://github.com/perannum/annum-test.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perannum/test/issues"
+    "url": "https://github.com/perannum/annum-test/issues"
   },
-  "homepage": "https://github.com/perannum/test",
+  "homepage": "https://github.com/perannum/annum-test",
   "dependencies": {
     "URIjs": "^1.13.2",
     "async": "^0.9.0",
